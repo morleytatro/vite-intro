@@ -1,0 +1,19 @@
+{
+  "name": "vite-intro",
+  "author": "Morley Tatro <mtatro@figure.com>",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.1.0",
+    "autoprefixer": "^10.4.11",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.1.3"
+  }
+}
